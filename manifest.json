@@ -3,6 +3,9 @@
   "version": "1.0",
   "description": "Github Opportunities",
   "manifest_version": 3,
+  "icons": {
+    "128": "images/icon-128.png"
+  },
   "content_scripts": [
     {
       "matches": ["https://github.com/*"],
